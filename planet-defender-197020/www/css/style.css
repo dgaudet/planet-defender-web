@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "ChalkboardSE-Regular";
+  src: url(../css/ChalkboardSE-Regular.ttf) format("truetype");
+}
+body {
+  font-family: "ChalkboardSE-Regular", Verdana, Tahoma;
+}
