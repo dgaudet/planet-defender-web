@@ -10,3 +10,7 @@ handlers:
 - url: /(.*)
   static_files: www/\1
   upload: www/(.*)
+
+- url: /privacypolicy
+  static_files: www/privacypolicy.html
+  upload: www/privacypolicy.html
